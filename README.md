@@ -21,6 +21,8 @@ Repository: [CodeWithMoaz/Greenhouse-Real-Time-System](https://github.com/CodeWi
 <img width="1257" height="729" alt="{30E38E8E-000C-4182-B442-C4BF227FB9E6}" src="https://github.com/user-attachments/assets/9813ff09-480c-411e-abc4-7685c955bd35" />
 
 - Process sensor readings and power events with Esper EPL statements.
+  <img width="510" height="616" alt="{EA4C2CA5-E18C-4B3D-80D3-947790D25026}" src="https://github.com/user-attachments/assets/d9fc6d91-ef0f-43e9-8d6e-91b3aba9fe79" />
+
 - Start and stop the simulated greenhouse system from the desktop UI.
 
 ## Technology
